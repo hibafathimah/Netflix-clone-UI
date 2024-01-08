@@ -1,0 +1,278 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(63, 63, 63);
+}
+.main-container{
+    max-width: 100%;
+    height: 646px;
+    background-image: url(./images/Untitled\ design\ \(6\).png);
+}
+.navcontainer{
+    max-width: 100%;
+    height: 150px;
+}
+.line{
+    height: 10px;
+    background-color: rgb(131, 131, 131);
+    margin: auto;
+}
+.lang{
+    background: none;
+    background-image: url(./images/symla.png);
+    background-repeat: no-repeat;
+    font-size: 14px;
+    border: 1px solid rgb(131, 131, 131);
+    color: white;
+    width: 115px;
+    height: 30px;
+    border-radius: 6px;
+    text-align: center;
+    margin-left: 40px;
+}
+.final-lang{
+    background: none;
+    background-image: url(./images/symla.png);
+    background-repeat: no-repeat;
+    font-size: 14px;
+    border: 1px solid rgb(131, 131, 131);
+    color: white;
+    width: 110px;
+    height: 30px;
+    border-radius: 6px;
+    text-align: center;
+}
+.final-lang:hover{
+    border: 1px solid white;
+    background-color: transparent;
+}
+.lang:hover{
+    border: 1px solid white;
+    background-color: transparent;
+}
+.sign{
+    background-color: rgb(238, 0, 12);
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    padding-bottom: 25px;
+}
+.textcont{
+    line-height: 33px;
+}
+.unlimited{
+    color: white;
+    font-size: 44px;
+    font-weight: 900;
+    text-align: center;
+}
+.watch{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.watchon{
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    padding-left: 130px;
+}
+.stream{
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    padding-left: 110px;
+}
+.every{
+    color: white;
+    font-size: 44px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 150px;
+}
+.save{
+    color: white;
+    font-size: 25px;
+    text-align: left;
+}
+.ready{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.ready-to{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 90px;
+}
+.email{
+    width: 400px;
+    background-color: transparent;
+    height: 50px;
+    margin-left: 260px;
+}
+.email:hover{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.get{
+    background-color: rgb(238, 0, 12);
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    width: 180px;
+    height: 50px;
+    border: none;
+}
+.first{
+    border: 5px solid rgb(92, 91, 91);
+    width: 1318px;
+}
+.sec-container{
+    max-width: 100%;
+    height: 550px;
+    background-color: rgb(0,0,0);
+}
+.third-container{
+    max-width: 100%;
+    height: 550px;
+    background-color: rgb(0,0,0); 
+}
+.fourth-container{
+    max-width: 100%;
+    height: 550px;
+    background-color: rgb(0, 0, 0);
+}
+.enjoy{
+    color: white;
+    font-size: 44px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 180px;
+}
+.download{
+    color: white;
+    font-size: 44px;
+    font-weight: 900;
+    text-align:left;
+    margin-top: 120px;
+}
+.tv{
+    position: relative;
+}
+.tv-img{
+    position: absolute;
+    top: 90px;
+}
+.tv-video{
+    position: absolute;
+    top: 160px;
+    left: 75px;
+}
+.str-img{
+    position: relative;
+}
+.stranger{
+    position: absolute;
+    left: 270px;
+    top: 100px;
+}
+.inner{
+    width: 280px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    border: 1px solid rgb(131, 131, 131);
+    border-radius: 10px;
+    top: 320px;
+    left: 255px;
+    display: flex;
+    flex-direction: row;
+}
+.strcont{
+    position: relative;
+}
+.str-text{
+    line-height: 13px;
+}
+.text-two{
+    padding-bottom: 60px;
+}
+.text-one{
+    margin-top: 5px;
+}
+.kidcont{
+    position: relative;
+}
+.kidimg{
+    position: absolute;
+    left: 120px;
+    top: 50px;
+}
+.seventh-container{
+    max-width: 100%;
+    height: 830px;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column; 
+}
+.eight-container{
+    max-width: 100%;
+    height: 400px;
+    background-color: #000000; 
+}
+.vdo{
+    position: relative;
+}
+.sa-vdeo{
+    position: absolute
+}
+.saif-video{
+    position: absolute;
+    left: 102px;
+    top: 80px;
+}
+.lapimg{
+    position: absolute;
+}
+.faq-btn{
+    width: 900px;
+    height: 75px;
+    text-align: left;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 50px;
+}
+.faq-container{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+.fa-plus{
+    float: right;
+}
+li,.que{
+    font-size: 14px;
+    color: rgb(168,179,179);
+    line-height: 40px;
+}
+
+a{
+    color: rgb(168,179,179);
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+}
+.footer-list{
+    margin-top: 100px;
+}
